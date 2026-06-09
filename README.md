@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Mahdi-Khaghani/Mahdi-Khaghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I am [MahdiKhaghani] i am trying to become a full stack developer and a python AI expert!
 
-Here are some ideas to get you started:
+🛠️ **Technologies & Tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![HTML](https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white) 
+ ![CSS](https://img.shields.io/badge/CSS-1572B6?&logo=css3&logoColor=white) 
+ ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white) 
+
+
+  **front-end**
+  
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black) 
+
+
+ **AI**
+
+  ![Python](https://img.shields.io/badge/Python-F7DF1E?&logo=python&logoColor=black) 
