@@ -14,6 +14,6 @@ Hello I am [MahdiKhaghani] i am trying to become a full stack developer and a py
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black) 
 
 
- **AI**
+ **AI & python**
 
   ![Python](https://img.shields.io/badge/Python-F7DF1E?&logo=python&logoColor=black) 
