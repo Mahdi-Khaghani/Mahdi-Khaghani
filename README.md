@@ -1,19 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahdi
 
-Hello I am [MahdiKhaghani] i am trying to become a full stack developer and a python AI expert!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Amir%20Khan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Future%20Full-Stack%20%26%20AI%20Developer&descAlignY=60&descSize=16" />
+</p>
 
-🛠️ **Technologies & Tools**
+### 💫 About Me
 
- ![HTML](https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white) 
- ![CSS](https://img.shields.io/badge/CSS-1572B6?&logo=css3&logoColor=white) 
- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white) 
+- 💻 Frontend Developer focused on building modern web applications
+- 🌱 Currently learning **React, TypeScript & Next.js**
+- 🚀 Interested in **Backend Development & Artificial Intelligence**
+- 🎯 Working towards becoming a **Full-Stack Developer and AI Engineer**
 
+---
 
-  **front-end**
-  
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black) 
+### 🛠️ Tech Stack
 
+#### 🌐 Frontend Development
 
- **AI & python**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-  ![Python](https://img.shields.io/badge/Python-F7DF1E?&logo=python&logoColor=black) 
+#### ⚙️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+#### 🐍 Backend & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs" />
+</p>
+
+---
+
+### 📚 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs" />
+</p>
+
+- TypeScript
+- Next.js
+- Advanced React concepts
+- Backend Development
+- Python & AI
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
+</p>
