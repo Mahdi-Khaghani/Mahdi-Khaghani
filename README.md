@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahdi
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:007ACC&height=180&section=header&text=Amir&fontSize=60&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:007ACC&height=180&section=header&text=Mahdi&fontSize=60&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 </p>
 
 ### 💫 About Me
